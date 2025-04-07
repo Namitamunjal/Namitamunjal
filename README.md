@@ -67,14 +67,14 @@
 
 <h3 align="center">🌟 My Repositories 🌟</h3>
 <p align="center">
-  <a href="https://github.com/Namitamunjal/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=voting_system" />
+  <a href="https://github.com/Namitamunjal/Namitamunjal.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=portfolio" />
   </a>
-  <a href="https://github.com/Namitamunjal/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=Creating_and_minting_tokens" />
+  <a href="https://github.com/Namitamunjal/Green_Gauge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=Green_Gauge" />
   </a>
- <a href="https://github.com/Namitamunjal/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=ZK-SNARK-Designer" />
+ <a href="https://github.com/Namitamunjal/certify-chain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=certify_chain" />
   </a>
 
 </p>
