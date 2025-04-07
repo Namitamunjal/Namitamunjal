@@ -68,13 +68,13 @@
 <h3 align="center">🌟 My Repositories 🌟</h3>
 <p align="center">
   <a href="https://github.com/Namitamunjal/Namitamunjal.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=Namitamunjal.github.io" />
   </a>
   <a href="https://github.com/Namitamunjal/Green_Gauge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=Green_Gauge" />
   </a>
  <a href="https://github.com/Namitamunjal/certify-chain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=certify_chain" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namitamunjal&repo=certify-chain" />
   </a>
 
 </p>
